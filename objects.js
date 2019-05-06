@@ -1,1 +1,5 @@
-var playlist = {"Help Me Lose My Mind": "London Grammar"};
+var playlist = {
+  songTitle:
+  artistTitle:
+  
+}
