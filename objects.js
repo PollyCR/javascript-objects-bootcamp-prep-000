@@ -1,3 +1,8 @@
 var playlist = {
-  "London Grammar":"Help Me Lose My Mind"
+  artistName:
+  songTitle:
+}
+
+function updatePlaylist(playlist,artistName,songTitle) {
+  object.assign({},playlist, {})
 }
