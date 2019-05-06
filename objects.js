@@ -1,4 +1,3 @@
 var playlist = {
-  songTitle:"Help Me Lose My Mind",
-  artistTitle: "London Grammar"
+  "London Grammar":"Help Me Lose My Mind"
 }
